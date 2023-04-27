@@ -1,5 +1,5 @@
 # libwindbird
-A cross-architecture library for Windbird-based hardware
+A cross-architecture firmware library for Windbird electronics 
 
 # WORK IN PROGRESS
 
